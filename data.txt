@@ -1,0 +1,2 @@
+{"name":"manu","age":"22","city":"Mumbai","salary":"240000"}
+*{"name":"abc","age":"20","city":"Mumbai","salary":"80000"}*{"name":"alka","age":"12","city":"Mumbai","salary":"250000"}*{"name":"Alpha","age":"21","city":"Mumbai","salary":"230000"}*{"name":"","age":"","city":"","salary":""}*{"name":"","age":"","city":"","salary":""}
